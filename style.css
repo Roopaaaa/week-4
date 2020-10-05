@@ -1,0 +1,48 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:teal;
+}
+li {
+    float: left;
+
+}
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: aliceblue;
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+}
+h2 {
+
+    text-align: center;
+    color:darkblue;
+}
+h3 {
+    
+    font-family: cursive;
+    font-size: x-large;
+}
+body{
+    background-color: lavenderblush;
+}
+p,ol {
+    color: maroon; 
+    font-size: 20.5px;
+    font-style: initial;
+}
+
+
+#centertable {
+    margin-left: 20%;
+}
